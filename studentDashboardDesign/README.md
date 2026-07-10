@@ -1,1 +1,1 @@
-Upload your uniquely named folder that contains the dashboard design in here.
+Upload your uniquely named folder that contains the dashboard design into this folder.
